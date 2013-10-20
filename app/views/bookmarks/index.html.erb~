@@ -29,5 +29,5 @@
 <br>
 
 <%= link_to 'New Bookmark', new_bookmark_path %>
-<!--<%= link_to 'All Bookmarks', show_bookmark_path %>
+
 
